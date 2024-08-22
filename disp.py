@@ -2,7 +2,7 @@ import requests
 import base64
 from flask import Flask, render_template
 
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = 'my_token'
 REPO = 'Ananda-001/location-data'
 LOCATION_FILE_PATH = 'location.txt'
 DATA_FILE_PATH = 'data.txt'
